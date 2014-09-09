@@ -24,8 +24,8 @@ test branch
 stst
 
 1
-<<<<<<< HEAD
+
 555
-=======
+
 6458158
->>>>>>> 08529c8a1eb73f98abe1a9e0daecc845e29d8537
+
